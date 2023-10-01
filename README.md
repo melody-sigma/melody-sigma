@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Tensorflow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
+<img src="https://img.shields.io/badge/pytorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C"/> 
+<img src="https://img.shields.io/badge/kotlin-000000?style=flat-square&logo=kotlin&logoColor=7F52FF"/> <a href="mailto:next.forr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
+
 <!--
 **melody-sigma/melody-sigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
