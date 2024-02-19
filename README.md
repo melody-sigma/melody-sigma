@@ -13,5 +13,5 @@
 - 🌱 I’m currently learning Data Science & Artificial Intelligence
 - 👯 I’m looking to collaborate on Music Art With Generative Model
 - 🤔 I’m looking for Game AI Engineer & Data Scientist
-- ⚡ Fun fact: Speedy Game Mania
+- ⚡ Fun fact: Speed & Game Mania
 - 💬 Ask me about Linear Algebra
